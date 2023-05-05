@@ -9,5 +9,5 @@ Expected Result:
 
 """
 
-text = 'python is a popular programming language.'
-print(f"Number of occurrences: {text.count('p')}")     
+text = 'python is a pyopular programming language.'
+print(f"Number of occurrences: {text.count('py')}")     

@@ -19,9 +19,9 @@ Expected result:
 
 text = 'Programming in python.'
  
-text = text.lower()
-text = text.replace(' ', '')
-text = text.replace('.', '')
+text = text.lower().replace(' ', '').replace('.', '')
+# text = text.replace(' ', '')
+# text = text.replace('.', '')
 vowels = {'a', 'e', 'i', 'o', 'u'}
 letters = set(text)
 consonants = letters.difference(vowels)
