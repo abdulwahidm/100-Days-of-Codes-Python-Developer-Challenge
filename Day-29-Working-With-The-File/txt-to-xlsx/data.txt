@@ -1,0 +1,4 @@
+Nama, Usia, Kota
+John, 25, Jakarta
+Alice, 30, Surabaya
+Bob, 28, Bandung
